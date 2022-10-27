@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/GreenwoodUni">
+<Resource auth="Container" 
+       driverClassName="com.mysql.jdbc.Driver" 
+       logAbandoned="true" maxActive="100" 
+       maxIdle="30" maxWait="10000" 
+       name="jdbc/heroku_6128d8fa3e5152e" 
+       password="c0f98db8" 
+              removeAbandoned="true" removeAbandonedTimeout="60" 
+              type="javax.sql.DataSource" 
+              url="jdbc:mysql://us-cdbr-east-06.cleardb.net/heroku_6128d8fa3e5152e" 
+              username="b075000fbcf493"
+    />
+</Context>
+
